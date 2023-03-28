@@ -1,1 +1,1 @@
-4
+4 Ctrl + , -> settings -> exclude 설정해서 .git 보이게 해 줌
